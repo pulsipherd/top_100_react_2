@@ -12,5 +12,16 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": "git+https://github.com/pulsipherd/top_100_react_2.git",
+  "keywords": [],
+  "author": "Deneb Pulsipher <pulsipherd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pulsipherd/top_100_react_2/issues"
+  },
+  "homepage": "https://github.com/pulsipherd/top_100_react_2#readme"
 }
